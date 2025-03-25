@@ -5,7 +5,7 @@
 # Description: Methods and classes for reading and summarizing DEPONS raster
 #   objects
 
-
+#xxx
 #' @title  DeponsDyn-class
 #' @description Stores objects containing population dynamics output and energetic
 #' output simulated using the DEPONS model.
